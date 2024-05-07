@@ -1,0 +1,15 @@
+.menu-bar{
+    height:10%;
+    width: 100%;
+    position: fixed;
+    background-color: black;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    
+}
+
+.star-wars-logo{
+    
+}

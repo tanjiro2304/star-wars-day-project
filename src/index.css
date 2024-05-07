@@ -1,0 +1,9 @@
+body{
+  background-color:black;
+  color: #FFE81F;
+  font-family: "Roboto";
+}
+
+#root{
+  display: block;
+}

@@ -1,0 +1,24 @@
+.container{
+  display:flex;
+  flex-direction: column;
+}
+
+.caption{
+  margin-top:6%;
+}
+
+.slide-text {
+  display: flex;
+  justify-content: center;  
+}
+
+.slide-text h1 {
+  animation: 3s slide-text 2s forwards;
+    transform:translateX(-200%);
+}
+
+@keyframes slide-text {
+  to {
+    transform:translateX(0);
+  }
+}
